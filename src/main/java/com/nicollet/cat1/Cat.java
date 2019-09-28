@@ -1,5 +1,6 @@
 package com.nicollet.cat1;
 
+import com.nicollet.cat1.models.BlindDate;
 import com.nicollet.cat1.models.ReasonDTO;
 import com.nicollet.cat1.models.Student;
 import org.springframework.boot.CommandLineRunner;
